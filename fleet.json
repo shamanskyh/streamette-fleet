@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "serial": 2,
+  "serial": 3,
   "releases": [
     {
-      "tag": "v17.0.0",
+      "tag": "v17.1.0",
       "devices": [
         "GQXM-8QNN",
         "MDT0-FG2W"
