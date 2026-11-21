@@ -1,16 +1,16 @@
 {
   "schema": 1,
-  "serial": 10,
+  "serial": 11,
   "releases": [
     {
-      "tag": "v18.4.0",
+      "tag": "v18.4.1",
       "devices": [
         "GQXM-8QNN",
         "MDT0-FG2W"
       ]
     },
     {
-      "tag": "v18.4.0",
+      "tag": "v18.4.1",
       "devices": [
         "7ZWR-JJFG"
       ]
